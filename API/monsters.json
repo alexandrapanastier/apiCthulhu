@@ -1,0 +1,53 @@
+[
+    {
+      "name": "Cthulhu",
+      "description": "Un ancien dieu cosmique endormi au fond de l'océan. Sa simple vue peut rendre les humains fous.",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3ef9c5b5-d947-4c39-8fd7-4fc3a629a539/dfasgp3-6ffffefb-7f0e-4881-bb0c-fc9aa4021ed9.jpg/v1/fill/w_444,h_250,q_70,strp/c_is_for_cthulhu___curse_of_cthulhu__by_ninerio_dfasgp3-250t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvM2VmOWM1YjUtZDk0Ny00YzM5LThmZDctNGZjM2E2MjlhNTM5XC9kZmFzZ3AzLTZmZmZmZWZiLTdmMGUtNDg4MS1iYjBjLWZjOWFhNDAyMWVkOS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.g1tkvnPSLUIiBo68VrCw3HaPp9ZJXzPN_vKtL08rHYg"
+    },
+    {
+      "name": "Shoggoth",
+      "description": "Une masse informe de protoplasme capable de prendre n'importe quelle forme. Extrêmement dangereux.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Shoggoth_by_Nottsuo.jpg/800px-Shoggoth_by_Nottsuo.jpg"
+    },
+    {
+      "name": "Mi-Go",
+      "description": "Une race extraterrestre aux motivations mystérieuses. Ils sont connus pour enlever des cerveaux humains.",
+      "image": "https://pbs.twimg.com/media/EIZ784MWoAEMxxZ.jpg"
+    },
+    {
+      "name": "Nyarlathotep",
+      "description": "Un être aux formes changeantes qui sert d'émissaire des Grands Anciens. Manipulateur et destructeur.",
+      "image": "https://i.pinimg.com/736x/d2/db/e4/d2dbe441fc587b9c97f5f8a44649160d.jpg"
+    },
+    {
+      "name": "Dagon",
+      "description": "Un dieu des profondeurs marines vénéré par les cultistes. Son règne s'étend sur les océans.",
+      "image": "https://static.wikia.nocookie.net/lovecraft/images/8/8d/Father_Dagon.jpg/revision/latest?cb=20200708172528"
+    },
+    {
+      "name": "Yog-Sothoth",
+      "description": "Une entité omnisciente liée à tout le temps et l'espace. Sa nature est au-delà de la compréhension humaine.",
+      "image": "https://static.wikia.nocookie.net/monstermovies/images/e/e9/Yogsothoth.jpg/revision/latest?cb=20120717190121"
+    },
+    {
+      "name": "Hastur",
+      "description": "Également connu sous le nom du Roi en Jaune, une figure sinistre liée à des textes interdits.",
+      "image": "https://64.media.tumblr.com/76c8692f26d3071189c990ecc580415f/tumblr_inline_p2i672qyv11robfbt_1280.png"
+    },
+    {
+      "name": "Deep One",
+      "description": "Une race amphibie issue de la fusion entre les humains et les créatures marines. Ils vénèrent Dagon.",
+      "image": "https://i.pinimg.com/originals/b0/e8/9f/b0e89fed4697711ce67d06123b88cb77.jpg"
+    },
+    {
+      "name": "Nightgaunt",
+      "description": "Des créatures ailées et sombres qui se déplacent dans les rêves et les cauchemars des humains.",
+      "image": "https://static.wikia.nocookie.net/monster/images/1/1c/D9C7C05F-220E-4821-B419-28C82094575D.jpeg/revision/latest?cb=20180901024301"
+    },
+    {
+      "name": "Byakhee",
+      "description": "Des créatures volantes serviteurs des Grands Anciens. Elles traversent les dimensions pour accomplir leurs tâches.",
+      "image": "https://img.wattpad.com/422e0ba2434ea3ea248efc14be83c76dd7f081ee/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6a4c44735144546d6b3264582d773d3d2d3738393634393536352e3135633933306564396231646536643334333633373230373933312e6a7067?s=fit&w=720&h=720"
+    }
+  ]
+
